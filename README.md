@@ -77,15 +77,15 @@ git clone https://github.com/iKebb/Project05_NLP.git
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Diogobme">
-        <img src="https://avatars.githubusercontent.com/u/236394808?v=4" width="100px;" alt="Diogo"/><br>
+      <a href="https://github.com/diogosimoez">
+        <img src="https://avatars.githubusercontent.com/u/78166694?v=4" width="100px;" alt="Diogo"/><br>
         <sub><b>Diogo</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com">
-        <img src="https://avatars.githubusercontent.com/u/91424727?v=4" width="100px;" alt="Eloisa"/><br>
-        <sub><b>Eloisa</b></sub>
+      <a href="https://github.com/JaviGARES">
+        <img src="https://avatars.githubusercontent.com/u/230015620?v=4" width="100px;" alt="Javier"/><br>
+        <sub><b>Javier</b></sub>
       </a>
     </td>
   </tr>
@@ -100,4 +100,4 @@ This project is free of license. Feel free to use it!
 - **Via E-mail** - [keberth12@gmail.com](mailto:keberth12@gmail.com)
 - **Via LinkedIn** - [Keberth José Rodríguez Albino](https://www.linkedin.com/in/keberth-josera-vkse1666)
 
-Repo link: https://github.com/iKebb/Project04_DeepLearning-Image_Classification
+Repo link: https://github.com/iKebb/Project05_NLP/
