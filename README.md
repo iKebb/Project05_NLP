@@ -14,7 +14,7 @@ This project uses [GloVe 300d](http://nlp.stanford.edu/data/glove.6B.zip).
 
 ## Project Description
 
-The dataset given was pretty clean, mosrtly balanced labels and with no further problems more than a single BOM value. No clean needed after this also as featuring.
+The dataset given was pretty noisy, has mostly balanced labels and with no further problems more than a single BOM value. Not much clean needed for this. We also do some feature engineering.
 
 Our project has tested different models:
 
